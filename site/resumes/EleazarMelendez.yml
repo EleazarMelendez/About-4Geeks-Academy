@@ -18,142 +18,81 @@ basic_info:
     languages:
       - idiom: English
         level: Native
-
       - idiom: Spanish
         level: Native
-
       - idiom: German
-        level: Intermediate
-        
+        level: Intermediate        
       - idiom: Portuguese
         level: Beginner
     interests:
       - item: Adventure travel
       - item: Paddleboarding
       - item: Cooking
-
-# Your previous education
 education:
     - degree: B.A. in Politics/Economics
       university: Columbia University in the City of New York
       # optional
       university_logo: https://en.wikipedia.org/wiki/Columbia_University#/media/File:Columbia_University_shield.svg
       time: 2003 - 2008
-      details: Double-majored in Politics and Economics. Education in politics focused on comparative international politics, considered a pathway into the U.S. foreign service. Economics training included classical theory as well as learning how to conduct econometric research. Conducted a senior-year research project that quantified the perceived economic value of crime victims in New York based on local press coverage of specific crimes.
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-# Your previous job experiences or voluntier
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+      details: Double-majored in Politics and Economics. 
+          -  Education in politics focused on comparative international politics, considered a pathway into the U.S. foreign service.
+          -  Economics training included classical theory as well as learning how to conduct econometric research. 
+          -  Conducted a senior-year research project that quantified the perceived economic value of crime victims in New York based on local press coverage of specific crimes.
+    experiences:
+    - role: Founder and principal
+      time: 2017 - Present
+      company: Codorniz, Inc.
+      details: I manage political and public interest campaigns, help clients influence public policy discussions effectively, and handle communications strategy for companies engaged in politically sensitive ventures. Since 2020, I have paired brand development with business development, in particular for crypto and Web3 startups.
+    - role: Candidate for public office
+      time: 2019 - 2019
+      company: Eleazar Meléndez for Miami City Commissioner
+      company_logo: https://scontent.ffxe1-1.fna.fbcdn.net/v/t1.6435-9/51435146_402666737182116_2200697347904634880_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=T4j4QqSwywwAX8zFIbe&_nc_ht=scontent.ffxe1-1.fna&oh=00_AfBvXbMZSquJogjphqZ6yGfd240XujU_EJf9thz1isZyiQ&oe=63FA6D1D
+      details: Spent 11 months building a movement of progressive urbanists, climate activists, labor and faith leaders in an attempt to bring good governance to the City of Miami.
+    - role: Political and outreach director
+      time: 2017 - 2018
       company: Amazon, London
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-# Your project portfolio
-projects:
+      details: TK
+      - role: Chief of Staff
+      time: 2017 - 2018
+      company: Amazon, London
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: TK
+     - role: Journalist
+      time: 2017 - 2018
+      company: Amazon, London
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: TK
+     - role: Management consultant
+      time: 2017 - 2018
+      company: Amazon, London
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: TK
+     - role: Equity research analyst
+      time: 2017 - 2018
+      company: Amazon, London
+      # optional
+      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      details: TK
+           
+ projects:
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Title
+        project_logo: link
+        link: link
+        tagline: tagline
 skills:
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 65%
 
       - name: HTML5 & CSS
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
